@@ -2,7 +2,7 @@
 
 🎓 Graduate from Harbin Institute of Technology  
 🚀 Based in Singapore | Full-stack developer & AI enthusiast  
-🎱 I enjoy playing pool, singing, and building fun tech projects
+🎱 I enjoy playing Chinese 8 pools, singing, and building fun tech projects
 
 ---
 
@@ -15,12 +15,7 @@
 
 ---
 ## 🐍 Watch my code snake crawl!
-
-> 代码越多，蛇越长！
-
-![snake dark](https://raw.githubusercontent.com/Ch1ldKing/Ch1ldKing/output/github-snake-dark.svg)
 ![snake gif](https://raw.githubusercontent.com/Ch1ldKing/Ch1ldKing/output/ocean.gif)
-
 
 ---
 ## 🌟 GitHub Stats
